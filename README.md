@@ -8,4 +8,4 @@ The test experiment uses the 5×5 map in the under figure, the number of robots 
 ### Demo vidio
 The execution time of B-IHCA* algorithm is 20.21s, and the execution time of E-HCA* algorithm is 18.05s
 
-https://github.com/JianB-W/E-HCA-/blob/main/Demo_video%20(2).mp4
+https://github.com/JianB-W/E-HCA-/blob/main/Demo_video.gif
